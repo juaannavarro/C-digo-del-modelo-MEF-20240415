@@ -40,4 +40,10 @@ Aplique todo el flujo de trabajo en un caso de estudio estructural proporcionado
 
 
 
+Primero hemos ejecutado los archivos para generar los txt y los vtu.
+
+Una vez hecho eso vamos para el ParaView y los metemos ahi. De primeras hemos conseguido la imagen:
+
+<img width="1431" alt="Captura de pantalla 2024-04-15 a las 17 49 23" src="https://github.com/juaannavarro/C-digo-del-modelo-MEF-20240415/assets/91721668/7299674c-5e5c-4eb0-abce-24e39d5ec5ac">
+
 
